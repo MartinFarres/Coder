@@ -3,4 +3,4 @@ def calcularFactorial(n):
 def factorial(n):
     print(f"El factorial de {str(n)} es {str(calcularFactorial(n))}")
 
-factorial(5)    
+factorial()
